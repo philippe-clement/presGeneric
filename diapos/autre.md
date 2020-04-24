@@ -14,7 +14,7 @@
 ## LSE
 
 - Module écrit par le responsable d'enquête
-- Intégration du module développé ppr Michael Canales 
+- Intégration du module développé par Michael Canales 
 - Mise à jour dans le pom du core 
 - Règles de nommage de certaines variables et certains types ...
 
