@@ -13,9 +13,9 @@
 
 ## Composants REACT
 
-- Material-ui en version 3
+- Material-ui en version 4
 - Lunatic pour l'affichage du questionnaire
-- Création de composant ad-hoc : controle, cadre ...
+- Création de composant ad-hoc : controle, tableau, lunatic ...
 - Gestion des url à travers un routeur
 
 ---
@@ -44,6 +44,5 @@
 ## A faire
 
 - gestion des codes erreur WS
-- montée de version de material-ui
 - mise à jour des dépendances
 - accessibilité

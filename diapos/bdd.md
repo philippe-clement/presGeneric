@@ -13,7 +13,7 @@
 ## Partitionnement
 
 - Partition de type liste sur la colonne uid_enquete
-- Table ddl_partition
+- Table ddl_partition contient contrainte, index ...
 - Script PG-SQL pour création et modification partition
 - Trigger sur table enquête
 
@@ -24,7 +24,7 @@
 - Intégration d'une nouvelle enquête facile (ajout d'une partition)
 - Purge d'enquête facile (suppression d'une partition)
 - Performance non altérée avec l'ajout de nouvelles enquêtes
-- Pas de base d'archivage
+- A priori pas besoin de base d'archivage
 
 ---
 
@@ -32,7 +32,7 @@
 
 - PG-SQL contraire au CTT mais ...
 - Peu utlisée actuellement mais ...
-- Intégration avec Hibernate
+- Intégration avec Hibernate complexe 
 
 ---
 
