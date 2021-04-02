@@ -1,9 +1,0 @@
-# SOMMAIRE
-
----
-
-- La Base de données
-- Une api en JAVA ...
-- Des batchs avec Spring Batch ...
-- Et un front-end en js
-- LSE, LUNATIC , et cie ...
